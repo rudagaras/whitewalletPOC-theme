@@ -8,7 +8,7 @@
 import SwiftUI
 
 public struct AppColor {
-    public let primary: LocalizedStringKey = "primary-color"
-    public let secondary: LocalizedStringKey = "secondary-color"
-    public let tertiary: LocalizedStringKey = "tertiary-color"
+    public let primary: String = "primaryColor"
+    public let secondary: String = "secondaryColor"
+    public let tertiary: String = "tertiaryColor"
 }
