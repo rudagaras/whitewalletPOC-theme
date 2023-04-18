@@ -12,3 +12,4 @@ public struct AppColor {
     public let secondary: String = "secondaryColor"
     public let tertiary: String = "tertiaryColor"
 }
+
